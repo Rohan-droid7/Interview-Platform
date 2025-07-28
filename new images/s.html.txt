@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
+<!-- saved from url=(0134)https://mail.google.com/mail/u/0/?ik=efac6bd618&view=pt&search=all&permmsgid=msg-f:1864445618576305331&simpl=msg-f:1864445618576305331 -->
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style type="text/css" nonce="">
+        body,
+        td,
+        div,
+        p,
+        a,
+        input {
+            font-family: arial, sans-serif;
+        }
+    </style>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="https://www.google.com/a/cpanel/iiitl.ac.in/images/favicon.ico" type="image/x-icon">
+    <title>Indian Institute of Information Technology, Lucknow Mail - End Semester Examination Result [LCS2024032]
+    </title>
+    <style type="text/css" nonce="">
+        body,
+        td {
+            font-size: 13px
+        }
+
+        a:link,
+        a:active {
+            color: #1155CC;
+            text-decoration: none
+        }
+
+        a:hover {
+            text-decoration: underline;
+            cursor: pointer
+        }
+
+        a:visited {
+            color: ##6611CC
+        }
+
+        img {
+            border: 0px
+        }
+
+        pre {
+            white-space: pre;
+            white-space: -moz-pre-wrap;
+            white-space: -o-pre-wrap;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            max-width: 800px;
+            overflow: auto;
+        }
+
+        .logo {
+            left: -7px;
+            position: relative;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="bodycontainer">
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tbody>
+                <tr height="14px">
+                    <td width="143"><img
+                            src="./Indian Institute of Information Technology, Lucknow Mail - End Semester Examination Result [LCS2024032]_files/unnamed.png"
+                            width="143" height="59" alt="Indian Institute of Information Technology, Lucknow Mail"
+                            class="logo"></td>
+                    <td align="right">
+                        <font size="-1" color="#777"><b>Rohan Garg &lt;lcs2024032@iiitl.ac.in&gt;</b></font>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <hr>
+        <div class="maincontent">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tbody>
+                    <tr>
+                        <td>
+                            <font size="+1"><b>End Semester Examination Result [LCS2024032]</b></font><br>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <hr>
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" class="message">
+                <tbody>
+                    <tr>
+                        <td>
+                            <font size="-1"><b>Examcell IIIT Lucknow </b>&lt;examcell@iiitl.ac.in&gt;</font>
+                        </td>
+                        <td align="right">
+                            <font size="-1">Wed, Mar 18, 2026 at 7:20 PM</font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="padding-bottom: 4px;">
+                            <font size="-1" class="recipient">
+                                <div>To: lcs2024032@iiitl.ac.in</div>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <table width="100%" cellpadding="12" cellspacing="0" border="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <div style="overflow: hidden;">
+                                                <font size="-1">Dear Rohan Garg,<br><br> First semester result of
+                                                    B.Tech.(CS) is as follows:<br><br>
+                                                    <table border="1">
+                                                        <thead>
+                                                            <tr>
+                                                                <td><strong>Subject</strong></td>
+                                                                <td><strong>Grade</strong></td>
+                                                            </tr>
+                                                            <tr></tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>CTP1301C (T)</td>
+                                                                <td>A+</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>DMS1301C (T)</td>
+                                                                <td>A+</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>SPS1301C (T)</td>
+                                                                <td>B+</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>WDA1202C (T)</td>
+                                                                <td>A+</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>PCO1300C (T)</td>
+                                                                <td>B+</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>CTP1301C (L)</td>
+                                                                <td>A+</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>DMS1301C (L)</td>
+                                                                <td>A+</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>SPS1301C (L)</td>
+                                                                <td>A</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>WDA1202C (L)</td>
+                                                                <td>A+</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>SPO1001C (L)</td>
+                                                                <td>A</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan="2">
+                                                                    <center><strong>SGPI : 9.3</strong></center>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table><br><br><br>Best Wishes,<br>Examcell IIIT
+                                                    Lucknow<br><br>Disclaimer : The result communicated through this
+                                                    mail is just for the immediate information to the students. The
+                                                    final verification is yet to be done, thus, the final Grade card
+                                                    issued by the institute, which should be treated as authentic &amp;
+                                                    final, may differ from the result provided through this mail.
+                                                </font>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script type="text/javascript" nonce="">// <![CDATA[
+        document.body.onload=function() {document.body.offsetHeight; window.print()};
+        // ]]></script>
+</body>
+
+</html>
